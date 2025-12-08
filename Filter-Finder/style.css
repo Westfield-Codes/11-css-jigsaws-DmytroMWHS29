@@ -28,13 +28,13 @@ img {
    color: black;
 }
 
-.container#ross {
+/* .container#ross {
   padding-top:12px;
   height:200px;
   background-color:#ccc;
   box-sizing:border-box;
-}
-
+} */
+/* 
 #ross img {
   height:188px;
 }
@@ -42,7 +42,7 @@ img {
 #ross img:hover, #ross:hover {
   background-color:#fff;
   opacity: 0.5;
-}
+} */
 
 .middle {
    position: absolute;
@@ -52,6 +52,6 @@ img {
    -ms-transform: translate(-50%, -50%);
 }
 
-.container#ross:hover {
+/* .container#ross:hover {
    background-color:#ccc!important;
-}
+} */
